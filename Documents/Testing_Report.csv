@@ -1,0 +1,8 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Remarks
+1,Product Display and Listing,Open the Product Listing Page and verify all products are displayed,All products should be displayed without issues,All products displayed successfully,Passed,Low,Ensured seamless browsing experience
+2,API Error Handling,Simulate API failure and observe error message,Error message should clearly inform users of data fetching/connectivity issues,Error messages displayed correctly,Passed,Medium,Enhanced user experience during glitches
+3,Cart Functionality,"Add products to cart, view, and update cart",Cart should update accurately and reflect user actions,Cart functionality worked as expected,Passed,Low,No errors observed
+4,Search Functionality,Search for existing and non-existing products,"Dropdown should display results or ""No Product Found"" message",Search bar validation and dropdown behavior worked correctly,Passed,Medium,Guided users effectively
+5,Dynamic Product Pages,Open detailed product pages,Detailed pages should render dynamically with accurate content,Product details rendered dynamically,Passed,Low,Users viewed product details effortlessly
+6,Cross-Browser Compatibility,"Test the website on Chrome, Firefox, and Edge",Website should maintain consistent functionality and layout across all browsers,Functionality and layout remained consistent,Passed,Medium,Ensured wider audience reach
+7,Responsiveness,Test layout on mobile and tablet devices,Layout should adjust perfectly to different screen sizes,Responsive design adjusted as expected,Passed,High,Smooth user experience across devices
